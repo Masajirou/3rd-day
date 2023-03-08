@@ -1,0 +1,11 @@
+header {
+    
+    width: 1280px;
+}
+
+.container h1 {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    background-color: brown;
+}
