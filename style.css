@@ -1,11 +1,21 @@
-header {
+*{
     
-    width: 1280px;
+    max-width: 1280px;
 }
 
 .container h1 {
     margin: 0 auto;
-    width: 600px;
+    width: 50%;
     text-align: center;
     background-color: brown;
+}
+
+.logoes {
+    display: flex;
+}
+
+.logo {
+    width: 25%;
+    display: block;
+    flex:auto;
 }
